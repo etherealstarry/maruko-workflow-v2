@@ -12,6 +12,6 @@
   "recs": [
     {"title":"Motor learning and TMS: do we need a new framework?","tags":["运动学习","TMS","理论"],"why":"连接你两个核心兴趣——运动控制+TMS，质疑经典模型，做批判性阅读训练。"},
     {"title":"Individual differences in TMS response","tags":["个体差异","TMS","可塑性"],"why":"为什么同样参数不同人效果不同？GABA浓度、基因、昼夜节律都可能是因素。"},
-    {"title":"Ecological validity of motor neuroscience","tags":["运动神经科学","生态效度","方法论"],"why":"挑战 TMS 实验室范式局限——真实动作比单关节复杂得多，方法论批判论文。"}
+    {"title":"TMS-EEG coregistration: TEPs and beyond","tags":["TMS-EEG","TEP","多模态"],"why":"MEP 只是肌肉层面的下游信号——TMS-EEG 直接记录皮层对刺激的响应（TEP），不受脊髓衰减和肌肉疲劳影响，是理解皮层回路的下一步窗口。"}
   ]
 }
