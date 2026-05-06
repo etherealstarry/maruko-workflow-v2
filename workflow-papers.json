@@ -1,0 +1,17 @@
+{
+  "papers": [
+    {"title":"Bidirectional plasticity induced by transcranial ultrasound stimulation","summary":"经颅超声刺激可诱导双向可塑性——低频抑制、高频增强，机制涉及钙信号和 BDNF 通路。","tags":["TUS","可塑性","LTP/LTD"]},
+    {"title":"Short-interval intracortical inhibition: AP vs. PA","summary":"SICI 强度受 TMS 电流方向影响——PA 电流诱发的 SICI 比 AP 更强，不同皮层回路参与。","tags":["SICI","TMS","电流方向"]},
+    {"title":"Accelerated TMS for autism spectrum disorder","summary":"加速 TMS 方案在自闭症中的初步应用，高频 rTMS 靶向 DLPFC 改善社交认知。","tags":["TMS","自闭症","rTMS"]},
+    {"title":"Metaplasticity: tuning synapses and networks","summary":"可塑性本身受过往活动历史调节——LTP/LTD 阈值动态变化，BCM 理论框架。","tags":["metaplasticity","LTP","BCM"]},
+    {"title":"Cortical disinhibition and LTP-like plasticity","summary":"皮层去抑制(GABA_A↓)为 LTP 样可塑性打开窗口，SICI 降低预示更高诱导成功率。","tags":["SICI","LTP","去抑制"]},
+    {"title":"Paired associative stimulation: sensorimotor plasticity","summary":"PAS 将外周神经+TMS 配对模拟 STDP——ISI 25ms 诱导 LTP，10ms 诱导 LTD。","tags":["PAS","STDP","可塑性"]},
+    {"title":"Homeostatic plasticity in human motor cortex","summary":"稳态可塑性维持皮层兴奋性——先前兴奋水平决定后续 TMS 效应的方向。","tags":["稳态可塑性","metaplasticity","TMS"]},
+    {"title":"Theta burst stimulation: mechanisms and clinical applications","summary":"TBS 全面综述——iTBS/cTBS 突触机制(NMDA/GABA/Ca²⁺)、抑郁/卒中/疼痛应用。","tags":["TBS","综述","临床"]}
+  ],
+  "recs": [
+    {"title":"Motor learning and TMS: do we need a new framework?","tags":["运动学习","TMS","理论"],"why":"连接你两个核心兴趣——运动控制+TMS，质疑经典模型，做批判性阅读训练。"},
+    {"title":"Individual differences in TMS response","tags":["个体差异","TMS","可塑性"],"why":"为什么同样参数不同人效果不同？GABA浓度、基因、昼夜节律都可能是因素。"},
+    {"title":"Ecological validity of motor neuroscience","tags":["运动神经科学","生态效度","方法论"],"why":"挑战 TMS 实验室范式局限——真实动作比单关节复杂得多，方法论批判论文。"}
+  ]
+}
