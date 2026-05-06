@@ -1,0 +1,14 @@
+{
+  "ideas": [
+    {"id":"i1","category":"TMS","text":"cTBS 实验设计 —— 用 SICI/ICF 知识设计一个实验，验证 cTBS 对皮层抑制的影响","date":"5/2"},
+    {"id":"i2","category":"学习","text":"48 小时学习法 × 课程预习 —— 统计、实验设计、神经科学三门课走「堆料→骨架→补漏」","date":"5/4"},
+    {"id":"i3","category":"IELTS","text":"Task 1 intro 改写练习 —— 用填空模板练 paraphrase，从换一个词开始","date":"5/2"},
+    {"id":"i4","category":"筋膜","text":"疾痛菜谱实战 —— 选一个真实疼痛案例，按菜谱走一遍 CC 点触诊","date":"5/3"},
+    {"id":"i5","category":"工具","text":"小红书→Cola 封面工作流 —— 测试稳定性和频率，建立日常使用节奏","date":"5/5"},
+    {"id":"i6","category":"生活","text":"人生养成游戏 —— 拿提示词去 Claude 网页版试，调积分规则到顺手","date":"5/5"},
+    {"id":"i7","category":"工具","text":"丸子梦工厂使用复盘 —— 记录第一周的感受、bug、新功能愿望清单","date":"5/5"},
+    {"id":"i8","category":"TMS","text":"运动控制综述精读 —— 从 24 篇中选 3 篇最相关的，用 48 小时法学透","date":"5/4"},
+    {"id":"i9","category":"学习","text":"统计预习第 1 步 —— 打开 Motulsky，丢核心概念框架问题给 AI","date":"5/4"},
+    {"id":"i10","category":"TMS","text":"SICI AP/PA 电流方向论文 —— 读那篇关于电流方向影响 SICI 的研究","date":"5/3"}
+  ]
+}
