@@ -10,7 +10,7 @@
     {"title":"Theta burst stimulation: mechanisms and clinical applications","summary":"TBS 全面综述——iTBS/cTBS 突触机制(NMDA/GABA/Ca²⁺)、抑郁/卒中/疼痛应用。","tags":["TBS","综述","临床"]}
   ],
   "recs": [
-    {"title":"Motor learning and TMS: do we need a new framework?","tags":["运动学习","TMS","理论"],"why":"连接你两个核心兴趣——运动控制+TMS，质疑经典模型，做批判性阅读训练。"},
+    {"title":"SICI experimental design: a practical guide","tags":["SICI","实验设计","方法学"],"why":"你理论已经学了不少（SICI=GABA_A、ICF=谷氨酸、电流方向影响），下一步是把这些变成能动手的实验方案——CS强度怎么定、ISI选哪几个、试次数多少够——这才是实验室真正需要的东西。"},
     {"title":"Individual differences in TMS response","tags":["个体差异","TMS","可塑性"],"why":"为什么同样参数不同人效果不同？GABA浓度、基因、昼夜节律都可能是因素。"},
     {"title":"TMS-EEG coregistration: TEPs and beyond","tags":["TMS-EEG","TEP","多模态"],"why":"MEP 只是肌肉层面的下游信号——TMS-EEG 直接记录皮层对刺激的响应（TEP），不受脊髓衰减和肌肉疲劳影响，是理解皮层回路的下一步窗口。"}
   ]
